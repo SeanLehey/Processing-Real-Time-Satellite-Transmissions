@@ -1,4 +1,4 @@
-# Tracking Satellites and Processing Real-Time Telemetry Transmissions
+# Processing Real-Time Satellite Transmissions
 An introduction to satellite communications.
 
 ## Scope
